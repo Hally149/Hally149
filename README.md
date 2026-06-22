@@ -1,4 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=AA9CF7&width=435&lines=Focus.;Keep+learning.+Keep+building.;Am+I+testing+my+code+or+is+it+testing+me...)](https://git.io/typing-svg)
+
+![Hally's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hally149&show_icons=true&bg_color=00000000)
+
 <!--
 **Hally149/Hally149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
