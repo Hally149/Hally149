@@ -1,4 +1,4 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=AA9CF7&center=true&vCenter=true&width=435&lines=Welcome+to+HallyCodes!+;%22Magic.+Do+not+touch.%22)](https://git.io/typing-svg)
 
 <!--
 **Hally149/Hally149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
