@@ -1,4 +1,4 @@
-##[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A897F7&width=1219&height=112&lines=Tech+Stack%3A+Python%2C+C%2B%2B;Frontend%3A+HTML%2C+HTML5%2C+CSS%2C+JavaScript;Backend%3A+PHP%2C+mySQL%2C+Node.js;Tools+I+use%3A+Notion%2C+Figma%2C+Nmap%2C+Autopsy%2C+CrypTool%2C+Chocolatey%2C+Kali+Linux%2C+Encase%2C+Wireshark%2C+Krita)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A897F7&width=1219&height=112&lines=Tech+Stack%3A+Python%2C+C%2B%2B;Frontend%3A+HTML%2C+HTML5%2C+CSS%2C+JavaScript;Backend%3A+PHP%2C+mySQL%2C+Node.js;Tools+I+use%3A+Notion%2C+Figma%2C+Nmap%2C+Autopsy%2C+CrypTool%2C+Chocolatey%2C+Kali+Linux%2C+Encase%2C+Wireshark%2C+Krita)](https://git.io/typing-svg)
 
 <!--
 **Hally149/Hally149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
